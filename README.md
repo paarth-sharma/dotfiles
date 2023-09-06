@@ -3,6 +3,8 @@
 ## Windows
 
 Poweshell
+nvim
+vscode
 
 ## Arch
 
